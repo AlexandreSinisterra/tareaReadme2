@@ -7,3 +7,4 @@ pruebas de markdown
 > full ap
 #000000
  aa [op.gg](https://www.op.gg/summoners/euw/Sandark67-EUW)
+![bomba](https://admin.esports.gg/wp-content/uploads/2024/09/League-of-Legends-KDA-Gragas-and-more-for-15th-anniversary.jpg)
